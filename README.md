@@ -42,7 +42,7 @@
 ##### The result of the work [LightHouse](https://drive.google.com/file/d/1BfE8ccZD8SWT1onn3XsYEzDKEV1eQhuO/view?usp=share_link)
 36.  Set your browser for free AdBlocker
 37.  Install in browser Json Viewer 
-##### The result of the work Google Chrome [Store Google Chrome](https://drive.google.com/file/d/1HFdB5WrJyD8j6grQrcUc0hQWhQZ8aznF/view?usp=share_link)
+##### The result of the work [Store Google Chrome](https://drive.google.com/file/d/1HFdB5WrJyD8j6grQrcUc0hQWhQZ8aznF/view?usp=share_link)
 38.  Visit https://ksendzov.com (https://ksendzov.com/)
 39.  Make and save a screenshot of the visible page of the site
 40.  Make and save a screenshot of the entire site
